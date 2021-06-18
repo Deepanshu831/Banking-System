@@ -3,6 +3,6 @@
 The Sparks Foundation Internship program
 This is a Basic Banking System
 
-HTML, CSS, Bootstrap, PHP Database : MySQL are used.
+CSS, Bootstrap, PHP Database : MySQL are used.
 
 For tracking dummy record of Tranfer money 
